@@ -1,0 +1,13 @@
+D:\19.11.2884\Pemrogramman\ClassDanObject\bin\Debug\netcoreapp3.1\ClassDanObject.exe
+D:\19.11.2884\Pemrogramman\ClassDanObject\bin\Debug\netcoreapp3.1\ClassDanObject.deps.json
+D:\19.11.2884\Pemrogramman\ClassDanObject\bin\Debug\netcoreapp3.1\ClassDanObject.runtimeconfig.json
+D:\19.11.2884\Pemrogramman\ClassDanObject\bin\Debug\netcoreapp3.1\ClassDanObject.runtimeconfig.dev.json
+D:\19.11.2884\Pemrogramman\ClassDanObject\bin\Debug\netcoreapp3.1\ClassDanObject.dll
+D:\19.11.2884\Pemrogramman\ClassDanObject\bin\Debug\netcoreapp3.1\ClassDanObject.pdb
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.csprojAssemblyReference.cache
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.csproj.CoreCompileInputs.cache
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.AssemblyInfoInputs.cache
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.AssemblyInfo.cs
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.dll
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.pdb
+D:\19.11.2884\Pemrogramman\ClassDanObject\obj\Debug\netcoreapp3.1\ClassDanObject.genruntimeconfig.cache
